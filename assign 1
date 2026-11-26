@@ -1,12 +1,5 @@
 # =============================================================================
 # Python Assignment 01 - Strings, Operators, Lists, Tuples and Dictionaries
-#
-# Lines starting with "# Output:" show what the notebook printed.
-# Cells that raised errors on purpose (to show the error) are commented out
-# and marked with "# ERROR DEMO" so the file still runs top to bottom.
-# =============================================================================
-
-
 # =============================================================================
 # LIST, TUPLE AND DICTIONARY - basics (strings, print)
 # =============================================================================
